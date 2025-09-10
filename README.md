@@ -1,7 +1,5 @@
 # HistroyWeather
 
-目前只能爬取河南省天气，其他的城市以后有时间在配置
-
-从网站爬取历史天气
-MySql数据库存储
-配置文件配置选项
+Scrape historical weather data from a website. 
+MySQL database storage. 
+Configuration options in a configuration file.
